@@ -1,6 +1,6 @@
 # Knox Survivors - Tradução PT-BR (Injetor Dinâmico)
 
-> **⚠️ Projeto Temporário:** Esta tradução atua como um injetor dinâmico para fins de testes e feedback da comunidade. O objetivo final é que estes arquivos sejam integrados de forma nativa pelo autor do mod original.
+> **⚠️ Projeto Temporário:** Esta tradução atua como um injetor dinâmico para fins de testes, feedback e uso livre da comunidade. O objetivo final é que estes arquivos sejam integrados de forma nativa pelo autor do mod original.
 
 ---
 
